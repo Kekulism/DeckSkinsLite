@@ -1,0 +1,14 @@
+{
+    "id": "DeckSkinsLite",
+    "name": "DeckSkinsLite",
+    "display_name": "DeckSkinsLite",
+    "author": ["Keku"],
+    "description": "A compatibility mod that allows old DeckSkins+ skins to be loaded by Steammodded's DeckSkin object! This mod will find all .lua files inside the /skins/ directory in this mod's folder and load each of them as an additional option in the Customize Decks menu.",
+    "prefix": "DSL",
+    "main_file": "DSLite.lua",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1403a)"
+    ],
+    "priority": 999999999999999,
+    "version": "2.0"
+}
