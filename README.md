@@ -3,7 +3,7 @@
 
 # DeckSkinsLite
 
-A mod for Balatro that simplifies the creation of custom skins for your deck. Custom Deck skins are automatically loaded from the mod's skins folder into the game. DeckSkinsLite is backwards compatible with all skin add-ons created for DeckSkins+, and allows new modders who are inexperienced with LUA to easily make their own skins that can be loaded with DeckSkinsLite.
+A mod for Balatro that simplifies the creation of custom skins for your deck. Custom Deck skins are automatically loaded from the mod's skins folder into the game.
 
 ![Deck Customization Menu](https://i.imgur.com/qoIk2fK.gif)
 
